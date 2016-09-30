@@ -1,4 +1,4 @@
-(function($, window, document, undefined) {
+(function() {
 
     'use strict';
 
@@ -79,4 +79,4 @@
 
     $.fn.lightGallery.modules.pager = Pager;
 
-})(jQuery, window, document);
+})();
