@@ -33,6 +33,9 @@ $ npm install lg-pager
 
 You can also directly download lg-pager from github.
 
+#### CDN
+If you prefer to use a CDN you can load files via [jsdelivr](https://www.jsdelivr.com/projects/lg-pager)
+
 #### Include Javascript files
 Include lg-pager plugin after lightgallery.min.js.
 ``` html
